@@ -26,5 +26,21 @@ Install node Dependencies
 5.Connect your Project With MySQL Database
 
 6.Migrate the Default Tables
-php artisan migrate
+        
+        php artisan migrate
+        
+7  Setup  .env file Mysql dtabase details and Mail Smtp Server
+
+8.after the Setup Run the command from root directory
+
+        php artisan serve
+
+                localhost serve was started
+By using your Browsor
+
+Run the ip address of localhost serve 127.0.0.1:8000 
+
+
+
+
  
