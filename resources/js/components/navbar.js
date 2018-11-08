@@ -69,7 +69,7 @@ class Nav extends Component {
               <ul className="nav navbar-nav navbar-right">
                 <li><Link to="/login">Login</Link></li>
                 <li><Link to="/register">Register</Link></li>
-                  <li><Link to="/reset">Register1</Link></li>
+                 
               </ul>
           </div>
 
